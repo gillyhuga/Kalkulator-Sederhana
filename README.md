@@ -1,5 +1,5 @@
 # Kalkulator Sederhana
-  This is a simple calculator application that I made for practice, I made it using the Java programming language.
+  Ini adalah aplikasi kalkulator sederhana yang saya buat untuk latihan, saya membuatnya dengan menggunakan bahasa pemrograman Java.
   
 ## Preview  
 * Home Screen
